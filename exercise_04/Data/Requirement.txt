@@ -1,0 +1,29 @@
+May: classification
+
+I. GSE73002
+
+  1. Data pre-treatment
+  1.1 "MIMAT0000062" -> hsa-let-7a-5p via mature.fa
+  1.2 "MIMAT0004806, MIMAT0022738, MIMAT0022740",
+	split to three lines keep data e.g. 3.58241...
+  1.3 PCA dimention reduction can be applied vs full raw data if possible
+
+  2. Label = Group Info on !Sample_characteristics_ch1: 
+	diagnosis = {breast cancer, non-cancer, prostate disease, benign breast disease}
+
+  3. Classification
+  3.1 algorihtms >= 4 
+  3.2 parameters, hyper-parameters, grid_search
+  3.4 results & explain: accuracy, recall, precision, et al
+  3.5 pains & gains
+
+II. GSE137140: similar to GSE73002
+
+III: Compare the result of I and II for possible further insights
+
+END
+
+
+
+
+June: clustering

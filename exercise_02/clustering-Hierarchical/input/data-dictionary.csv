@@ -1,0 +1,22 @@
+﻿Column Name,Description
+country,Name of the country
+child_mort,Death of children under 5 years of age per 1000 live births
+exports,Exports of goods and services. Given as %age of the Total GDP
+health,Total health spending as %age of Total GDP
+imports,Imports of goods and services. Given as %age of the Total GDP
+Income,Net income per person
+Inflation,The measurement of the annual growth rate of the Total GDP
+life_expec,The average number of years a new born child would live if the current mortality patterns are to remain the same
+total_fer,The number of children that would be born to each woman if the current age-fertility rates remain the same.
+gdpp,The GDP per capita. Calculated as the Total GDP divided by the total population.
+
+- country：国家名称
+- child_mort：每1000名活产婴儿中5岁以下儿童的死亡
+- exports：货物和服务出口。以年龄占GDP总量的百分比表示
+- health：总卫生支出占GDP总额的百分比
+- imports：货物和服务的进口。以年龄占GDP总量的百分比表示
+- Income：人均净收入
+- Inflation：衡量国内生产总值的年增长率
+- life_expec：如果当前的死亡率模式保持不变，一个新生儿的平均寿命
+- total_fer：如果当前年龄生育率保持不变，每个妇女将生育的孩子数量
+- gdpp：人均GDP。计算方法为GDP总量除以总人口
